@@ -22,7 +22,7 @@
   <p align="center">
     metaverse is a Lading page, i make this simple lading page as a practice for nextjs & tailwindcss use Motion framer.
     <br />
-    <a href="https://hb-twitter-v1.vercel.app/">View Demo</a>
+    <a href="https://hb-metaverse.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/Ham47Mani/metaverse/issues">Report Bug</a>
     ·
